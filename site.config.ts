@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'SVDE ',
-  domain: 'n.svde.rip',
+  domain: 'https://wr8-i8c4nrmww-svde-b.vercel.app/',
   author: 'SVDE',
   seotitle: 'Demo site by SVDE for Notion',
 
@@ -51,10 +51,18 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
   navigationStyle: 'custom',
-  navigationLinks: [   
+  navigationLinks: [  
     {
-      title: 'SVDE',
-      pageId: '0890bde7480f4b9b970e5b2fced2d091'
+      title: 'Blog',
+      pageId: '588031c1e65d4dfa9d58e2492c9c1b7e'
+    },    
+    {
+      title: 'About',
+      pageId: 'cf2ae3c4839e4e09a1b4a33cc600c409'
+    },
+    {
+      title: 'Contact',
+      pageId: '5f7e562fef814299b10c68c52e920c9a'
     }
   ]
 })
