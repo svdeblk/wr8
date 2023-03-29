@@ -9,18 +9,18 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wr8 Demo',
-  domain: 'demo.wr8.in',
-  author: 'Verfasor',
-  seotitle: 'Demo Site Created with wr8',
+  name: 'SVDE ',
+  domain: 'n.svde.rip',
+  author: 'SVDE',
+  seotitle: 'Demo site by SVDE for Notion',
 
   // open graph metadata (optional)
-  description: 'This is a demo website created with wr8.',
+  description: 'Demo site by SVDE for Notion.',
 
   // social usernames (optional)
-  twitter: 'verfasor',
-  github: 'verfasor',
-  linkedin: 'verfasor',
+  twitter: 'svdeblk',
+  github: 'svdeblk',
+  linkedin: 'svdeblk',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -53,16 +53,8 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [   
     {
-      title: 'Blog',
-      pageId: '588031c1e65d4dfa9d58e2492c9c1b7e'
-    },    
-    {
-      title: 'About',
-      pageId: 'cf2ae3c4839e4e09a1b4a33cc600c409'
-    },
-    {
-      title: 'Contact',
-      pageId: '5f7e562fef814299b10c68c52e920c9a'
+      title: 'SVDE',
+      pageId: '0890bde7480f4b9b970e5b2fced2d091'
     }
   ]
 })
