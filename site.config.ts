@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'SVDE ',
-  domain: 'https://wr8-three.vercel.app/',
+  domain: 'https://wr8-5brxh9gu7-svde-b.vercel.app/',
   author: 'SVDE',
   seotitle: 'Demo site by SVDE for Notion',
 
